@@ -15,8 +15,9 @@
     "luro-1d": true,
     "stones": true
   },
+  "academyLink":"https://academy-pink.vercel.app",
   "ignoreToS": false,
-	"languages": ["en", "cs", "ru"],
+  "languages": ["en", "cs", "ru"],
   "contracts": {
     "1337": {
       "PUBLIC_TOKEN_ADDRESS": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
