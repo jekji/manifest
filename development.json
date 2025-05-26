@@ -67,5 +67,10 @@
       "PUBLIC_BTCUSDT_GAME_ADDRESS": "0x0000000000000000000000000000000000000000",
       "PUBLIC_MULTICALL_ADDRESS": "0x208f9ee25a5e9f0f5385251dde9470e4122d8e95"
     }
+  },
+  "chatbot": {
+    "enabled": true,
+    "propertyId": "68341f746ff14f1913bb0545",
+    "widgetId": "1is5plo7h"
   }
-} 
+}
