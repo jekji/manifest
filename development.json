@@ -1,6 +1,6 @@
 {
   "environment": "local",
-  "context": "https://context-65kyj9lmq-jekjis-projects.vercel.app",
+  "context": "https://context-pink.vercel.app",
   "remotes": {
     "luro": "http://127.0.0.1:4005",
     "stones": "http://127.0.0.1:4002"
