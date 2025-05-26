@@ -3,7 +3,7 @@
   "context": "https://context-pink.vercel.app",
   "remotes": {
     "luro": "https://luro-tau.vercel.app",
-    "stones": "http://127.0.0.1:4002"
+    "stones": "https://stones-eta.vercel.app"
   },
   "sidebar": {
     "lobby": true,
