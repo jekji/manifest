@@ -2,7 +2,7 @@
   "environment": "local",
   "context": "https://context-pink.vercel.app",
   "remotes": {
-    "luro": "http://127.0.0.1:4005",
+    "luro": "https://luro-tau.vercel.app",
     "stones": "http://127.0.0.1:4002"
   },
   "sidebar": {
