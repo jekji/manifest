@@ -3,8 +3,13 @@
   "context": "https://context-pink.vercel.app",
   "remotes": {
     "luro": "https://luro-tau.vercel.app",
-    "stones": "https://stones-eta.vercel.app"
+    "stones": "https://stones-eta.vercel.app",
+    "roulette": "https://roulette-topaz-ten.vercel.app"
   },
+  "sidebar-metadata": {
+		"roulette-90": "0xC43088931A5ef0F98Beda76dCF84F5bd6414Fe7A",
+		"roulette-180": "0x66A35cbf41944ad34a54c480C7530915C85D17c5"
+	},
   "sidebar": {
     "lobby": true,
     "luro": {
@@ -13,7 +18,10 @@
     },
     "luro-5m": true,
     "luro-1d": true,
-    "stones": true
+    "stones": true,
+    "roulette": true,
+		"roulette-90": true,
+		"roulette-180": true
   },
   "academyLink":"https://academy-pink.vercel.app",
   "ignoreToS": false,
