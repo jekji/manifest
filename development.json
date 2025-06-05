@@ -14,10 +14,9 @@
 		"lobby": true,
 		"luro": {
 			"label": "Lucky Round",
-			"children": ["luro-5m", "luro-1d"]
+			"children": ["luro-5m"]
 		},
 		"luro-5m": true,
-		"luro-1d": true,
 		"stones": true,
 		"roulette": true,
 		"roulette-90": true,
