@@ -4,7 +4,8 @@
 	"remotes": {
 		"luro": "https://luro-tau.vercel.app",
 		"stones": "https://stones-eta.vercel.app",
-		"roulette": "https://roulette-topaz-ten.vercel.app"
+		"roulette": "https://roulette-topaz-ten.vercel.app",
+		"future": "https://future-weld-seven.vercel.app"
 	},
 	"sidebar-metadata": {
 		"roulette-90": "0xC43088931A5ef0F98Beda76dCF84F5bd6414Fe7A",
@@ -18,6 +19,12 @@
 		},
 		"luro-5m": true,
 		"stones": true,
+		"future": true,
+		"future-market": true,
+		"future-BTCUSD": true,
+		"future-ETHUSD": true,
+		"future-SOLUSD": true,
+		"future-XRPUSD": true,
 		"roulette": true,
 		"roulette-90": true,
 		"roulette-180": true
